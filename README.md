@@ -33,7 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Getting Started
-# Prerequisites
+### Prerequisites
 To run the Note Taker application, you will need to have the following software installed on your local machine:
 
 `Node.js`
@@ -73,5 +73,5 @@ Click the "Save" icon to save the new note.
 When a note in the left-hand column is clicked, it appears in the right-hand column.
 To add a new note, click the "Write" icon in the navigation at the top of the page.
 
-# Future Functionality
+### Future Functionality
 To delete a note, click the red trash can icon next to the note in the left-hand column.
