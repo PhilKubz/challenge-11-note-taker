@@ -57,12 +57,10 @@ Navigate to the directory where the Note Taker application is installed.
 
 Start the application:
 
-sql
-Copy code
 npm start
 Open your web browser and go to http://localhost:3001 to view the application.
 
-Functionality
+## Functionality
 The Note Taker application has the following functionality:
 
 On the landing page, click the "Get Started" button to go to the notes page.
