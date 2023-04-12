@@ -57,7 +57,8 @@ Navigate to the directory where the Note Taker application is installed.
 
 Start the application:
 
-npm start
+`npm start`
+
 Open your web browser and go to http://localhost:3001 to view the application.
 
 ## Functionality
