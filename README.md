@@ -4,6 +4,19 @@ As a busy individual, it is important to organize thoughts and keep track of tas
 
 The Note Taker application uses an Express.js back end and stores and retrieves note data from a JSON file.
 
+## Table of Contents
+- [Screenshot](#screenshot)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Deployed Link](#deployed-link)
+- [Prerequisites](#prerequisites)
+- [Functionality](#functionality)
+- [Future Functionality](#future-functionality)
+
+## Screenshot
+![challenge-11-note-taker-pk herokuapp com_](https://github.com/PhilKubz/challenge-11-note-taker/assets/122698773/6eb64355-564a-448a-85b7-848f1bfbf8d4)
+
+
 ## User Story
 
 ```md
@@ -33,11 +46,18 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Getting Started
+
+### Deployed Link
+https://challenge-11-note-taker-pk.herokuapp.com/
+
+
 ### Prerequisites
 To run the Note Taker application, you will need to have the following software installed on your local machine:
 
 `Node.js`
 `npm`
+
+
 ## Installation
 To install the Note Taker application, follow these steps:
 
@@ -61,7 +81,7 @@ Start the application:
 
 Open your web browser and go to http://localhost:3001 to view the application.
 
-## Functionality
+### Functionality
 The Note Taker application has the following functionality:
 
 On the landing page, click the "Get Started" button to go to the notes page.
